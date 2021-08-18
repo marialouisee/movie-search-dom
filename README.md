@@ -3,7 +3,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/marialouisee/movie-search-dom">
-    <img src="./src/ima/Logo.png" alt="Logo" width="80" height="80">
+    <img src="./src/img/Logo.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Movie Search App</h3>
